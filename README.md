@@ -68,21 +68,15 @@ Git • Docker • Postman • Figma • Vercel • Expo
 
 ---
 
-## 🤝 Connect with Me
-
-<a href="https://twitter.com/sadeem_asim" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/sadeem-asim" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:you@example.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://wa.me/923001234567?text=Hi%20Sadeem%2C%20I%20found%20your%20GitHub%20profile!">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.upwork.com/freelancers/~01c437b099d917194b?mp_source=share" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="ShahrozAtiq" height="40" width="40" /></a>
+<a href="https://www.fiverr.com/shahrozatiq" target="_blank"><img align="center" src="https://ml.globenewswire.com/Resource/Download/dcc91863-eeb0-4879-a556-9f7608b19744" alt="shahrozatiq" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/shahroz-atiq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahroz-atiq" height="30" width="40" /></a>
+<a href="https://instagram.com/shahahahahroz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahahahahroz" height="30" width="40" /></a>
+<a href="https://wa.me/923014317809" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="shehroz" height="30" width="40" /></a>
+<a href="mailto:shahrozatiq123@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="shehroz" height="30" width="40" /></a>
+</p>
 ---
 
 ## 📊 Most Used Languages
