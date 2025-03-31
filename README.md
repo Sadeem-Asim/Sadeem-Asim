@@ -70,12 +70,12 @@ Git • Docker • Postman • Figma • Vercel • Expo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.upwork.com/freelancers/~01c437b099d917194b?mp_source=share" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="ShahrozAtiq" height="40" width="40" /></a>
-<a href="https://www.fiverr.com/shahrozatiq" target="_blank"><img align="center" src="https://ml.globenewswire.com/Resource/Download/dcc91863-eeb0-4879-a556-9f7608b19744" alt="shahrozatiq" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/shahroz-atiq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahroz-atiq" height="30" width="40" /></a>
-<a href="https://instagram.com/shahahahahroz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahahahahroz" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01c4jjvjjjjvjv37b099d917194b?mp_source=share" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="ShahrozAtiq" height="40" width="40" /></a>
+<a href="https://www.fiverr.com/" target="_blank"><img align="center" src="https://ml.globenewswire.com/Resource/Download/dcc91863-eeb0-4879-a556-9f7608b19744" alt="shahrozatiq" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahroz-atiq" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahahahahroz" height="30" width="40" /></a>
 <a href="https://wa.me/923014317809" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="shehroz" height="30" width="40" /></a>
-<a href="mailto:shahrozatiq123@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="shehroz" height="30" width="40" /></a>
+<a href="mailto:sadeem@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="shehroz" height="30" width="40" /></a>
 </p>
 ---
 
